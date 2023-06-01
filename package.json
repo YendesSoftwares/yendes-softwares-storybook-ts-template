@@ -1,0 +1,65 @@
+{
+	"name": "@yendes/storybook-ts-template",
+	"version": "0.0.1",
+	"private": true,
+	"author": "Yendes Softwares @ Jeykher Pernia Yendes <jeykheryendes@gmail.com>",
+	"bugs": {
+		"url": "https://github.com/YendesSoftwares/yendes-softwares-storybook-ts-template.git/issues"
+	},
+	"description": "Yendes Softwares Core Storybook TypeScript Template",
+	"engines": {
+		"node": ">=18.0.0"
+	},
+	"files": [],
+	"homepage": "https://github.com/YendesSoftwares/yendes-softwares-storybook-ts-template.git",
+	"keywords": [
+		"YendesSoftwares",
+		"Storybook",
+		"TypeScript",
+		"Template"
+	],
+	"license": "YENDES",
+	"main": "./src/main.tsx",
+	"packageManager": "pnpm@8.6.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/YendesSoftwares/yendes-softwares-storybook-ts-template.git"
+	},
+	"type": "module",
+	"types": "./src/main.tsx",
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rimraf ./storybook-static",
+		"dev": "storybook dev -p 6006",
+		"compile": "storybook build"
+	},
+	"dependencies": {
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"sass": "1.62.1"
+	},
+	"devDependencies": {
+		"@storybook/addon-essentials": "7.0.18",
+		"@storybook/addon-interactions": "7.0.18",
+		"@storybook/addon-links": "7.0.18",
+		"@storybook/blocks": "7.0.18",
+		"@storybook/react": "7.0.18",
+		"@storybook/react-vite": "7.0.18",
+		"@storybook/testing-library": "0.1.0",
+		"@types/react": "18.2.7",
+		"@types/react-dom": "18.2.4",
+		"@vitejs/plugin-react": "4.0.0",
+		"eslint": "8.41.0",
+		"eslint-config-prettier": "8.8.0",
+		"eslint-plugin-react": "7.32.2",
+		"prettier": "2.8.8",
+		"prop-types": "15.8.1",
+		"rimraf": "5.0.1",
+		"storybook": "7.0.18",
+		"typescript": "5.1.3",
+		"vite": "4.3.9"
+	}
+}

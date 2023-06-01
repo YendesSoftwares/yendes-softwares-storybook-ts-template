@@ -1,0 +1,14 @@
+.dockerignore
+.gitignore
+.prettierignore
+.prettierrc
+.vscode
+CODE_OF_CONDUCT.md
+desktop.ini
+info
+LICENSE
+node_modules
+pnpm-lock.yaml
+README.md
+RULES.md
+storybook-static

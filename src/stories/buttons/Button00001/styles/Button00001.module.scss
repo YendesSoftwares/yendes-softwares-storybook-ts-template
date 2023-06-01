@@ -1,0 +1,20 @@
+.button {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s;
+    user-select: none;
+    vertical-align: baseline;
+}

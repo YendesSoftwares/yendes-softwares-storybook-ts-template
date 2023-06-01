@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "idahogurl.vs-code-prettier-eslint",
+        "microsoft.vscode-eslint",
+        "pkief.vscode-material-icon-theme",
+        "rangav.thunder-client-support",
+        "wayou.vscode-todo-highlight"
+	],
+    "unwantedRecommendations": []
+}

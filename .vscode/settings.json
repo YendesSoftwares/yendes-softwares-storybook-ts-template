@@ -48,14 +48,18 @@
     ],
     // Material Icon theme
     "material-icon-theme.folders.associations": {
+        "bat": "benchmark",
+        "bats": "benchmark",
         "buttons": "include",
+        "Commons": "shared",
         "documentations": "docs",
         "eslint-config-custom": "ngrx-actions",
         "info": "lua",
         "tsconfig": "typescript",
         "vscode": "vscode",
         // Special
-        "Button00001": "react-components"
+        "Button00001": "react-components",
+        "yendes-git-tools": "git"
     },
     "material-icon-theme.files.associations": {
         "*.doc.md": "document",

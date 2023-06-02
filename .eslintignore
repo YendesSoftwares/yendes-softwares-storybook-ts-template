@@ -6,7 +6,6 @@
 .nvmrc
 .prettierignore
 .prettierrc
-.storybook
 .vscode
 CODE_OF_CONDUCT.md
 desktop.ini
@@ -19,4 +18,5 @@ pnpm-workspace.yaml
 README.md
 RULES.md
 storybook-static
+TODOS.md
 turbo.json

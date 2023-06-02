@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "idahogurl.vs-code-prettier-eslint",
+        "mattbierner.vscode-emojisense",
         "microsoft.vscode-eslint",
         "pkief.vscode-material-icon-theme",
         "rangav.thunder-client-support",

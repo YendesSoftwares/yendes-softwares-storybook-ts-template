@@ -6,8 +6,8 @@
 
 ## Gitlab
 
-[]
+[https://gitlab.com/YendesSoftwares/yendes-softwares-storybook-ts-template.git]
 
 ## Github
 
-[]
+[https://github.com/YendesSoftwares/yendes-softwares-storybook-ts-template.git]
